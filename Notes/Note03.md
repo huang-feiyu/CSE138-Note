@@ -1,4 +1,4 @@
-# Logical Clocks - Part I
+# Logical Clocks
 
 [TOC]
 
@@ -63,4 +63,12 @@ Algorithm:
 4. When receiving a message, a process updates its vector clock to max(local, received)<br/>(after incrementing its position, because receives are events)
 
 max of vectors:<br/>[1, 12, 4] & [7, 0, 2] => [7, 12, 4]
+
+---
+
+*comparable*: Only if every number of a vector is all $\ge$/$\le$ than another vector, the two vectors are *comparable*
+
+[2, 2, 1] < [2, 4, 1]
+
+[3, 3, 3] || [2, 4, 1] \(cannot compare each other)
 
