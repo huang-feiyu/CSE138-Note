@@ -10,4 +10,5 @@
 * [Note01](./Notes/Note01.md): Overview
 * [Note02](./Notes/Note02.md): Clocks and Causality
 * [Note03](./Notes/Note03.md): Logical Clocks
+* [Note04](./Notes/Note04.md): Delivery Protocols
 
