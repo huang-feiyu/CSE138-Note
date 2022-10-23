@@ -12,4 +12,5 @@
 * [Note03](./Notes/Note03.md): Logical Clocks
 * [Note04](./Notes/Note04.md): Delivery Protocols
 * [Note05](./Notes/Note05.md): Causal Broadcast
+* [Note06](./Notes/Note06.md): Chandy-Lamport snapshot algorithm
 
