@@ -15,4 +15,5 @@
 * [Note06](./Notes/Note06.md): Chandy-Lamport snapshot algorithm
 * [Note07](./Notes/Note07.md): Fault models & two generals problem
 * [Note08](./Notes/Note08.md): Reliable delivery & reliable broadcast
+* [Note09](./Notes/Note09.md): Relication
 
