@@ -16,4 +16,5 @@
 * [Note07](./Notes/Note07.md): Fault models & two generals problem
 * [Note08](./Notes/Note08.md): Reliable delivery & reliable broadcast
 * [Note09](./Notes/Note09.md): Relication
+* [Note10](./Notes/Note10.md): Consistency models
 
