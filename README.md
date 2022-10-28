@@ -19,4 +19,5 @@
 * [Note10](./Notes/Note10.md): Consistency models
 * [Note11](./Notes/Note11.md): Paxos protocol
 * [Note12](./Notes/Note12.md): Paxos wrap-up & passive/active replication
+* [Note13](./Notes/Note13.md): Strong eventual consistency & CAP trade-off
 
