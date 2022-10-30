@@ -19,6 +19,7 @@
 * [Note10](./Notes/Note10.md): Consistency models
 * [Note11](./Notes/Note11.md): Paxos protocol
 * [Note12](./Notes/Note12.md): Paxos wrap-up & passive/active replication
-* [Note13](./Notes/Note13.md): Strong eventual consistency & CAP trade-off
-* [Note14](./Notes/Note14.md): Anti-entropy & gossip, quorum consistency
+* [Note13](./Notes/Note13.md): Strong eventual consistency & CAP trade-off (Dynamo - Part I )
+* [Note14](./Notes/Note14.md): Anti-entropy & gossip, quorum consistency (Dynamoc - Part II)
+* [Note15](./Notes/Note15.md): Sharding & consistent hashing (Dynamo - Part III)
 
