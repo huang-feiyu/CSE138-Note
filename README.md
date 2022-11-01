@@ -22,4 +22,5 @@
 * [Note13](./Notes/Note13.md): Strong eventual consistency & CAP trade-off (Dynamo - Part I )
 * [Note14](./Notes/Note14.md): Anti-entropy & gossip, quorum consistency (Dynamoc - Part II)
 * [Note15](./Notes/Note15.md): Sharding & consistent hashing (Dynamo - Part III)
+* [Note16](./Notes/Note16.md): MapReduce
 
