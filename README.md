@@ -23,4 +23,5 @@
 * [Note14](./Notes/Note14.md): Anti-entropy & gossip, quorum consistency (Dynamoc - Part II)
 * [Note15](./Notes/Note15.md): Sharding & consistent hashing (Dynamo - Part III)
 * [Note16](./Notes/Note16.md): MapReduce
+* [Note17](./Notes/Note17.md): MapReduce Recap
 
